@@ -5,6 +5,6 @@ class Polymarp{
 }
 class Polymarpism extends Polymarp{
    void Exarth(){
-  print("Yes i am Exalter ");
+  print("Ye i am Exalter ");
   }
 }
